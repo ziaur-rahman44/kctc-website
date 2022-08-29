@@ -1,0 +1,105 @@
+
+.hi{
+    margin-right: -12px;
+    margin-left: -12px;
+    background-image: linear-gradient(to bottom left, rgb(11, 63, 112),rgb(2, 22, 2));
+    
+    
+    
+ 
+}
+.hi h4{
+    text-align: center;
+    color: white;
+    padding: 10px 0px 0px 0px;
+    font-weight: 100;
+   
+    
+}
+.hi img{
+    width: 50px;
+    height: auto;
+    overflow: hidden;
+    padding: 10px 0px 10px 0px;
+    
+}
+ /* header menuber*/
+ .nm{
+     background-color:rgb(11, 34, 100) ;
+ }
+ .nm ul li a:hover{
+     color:#fff;
+ }
+ .ii img{
+   
+    width:120px;
+    height: auto;
+ }
+    
+ .nm ul li a {
+     margin-right: 30px;
+     padding: 10px;
+     margin-left: 10px;
+   
+     color:greenyellow;
+
+     padding-bottom: px;
+ }
+ /*slider area css*/
+.carousel-item{
+    padding: 0;
+    
+}
+#slider{
+   
+   
+    background-color: darkslategray;
+}
+
+
+.sl{
+   margin-right: -12px;
+   margin-left: -12px;
+}
+.si{
+    
+    background-position: fixed;
+    background-size: cover;
+}
+
+
+/*section/*/
+
+.section{
+    background-image: linear-gradient(to bottom left, rgb(11, 63, 112),rgb(2, 22, 2));
+    margin-left: -12px;
+    margin-right: -12px;
+    color:white;
+    padding: 5px;
+}
+.section a{
+    color:yellow;
+}
+
+/*foter css*/
+.foter-item i{
+    color:white;
+}
+.foter-item{
+    background-color: rgb(2, 2, 19);
+    margin-left: -12px;
+    margin-right: -12px;
+    color:white;
+    text-align: center;
+    font-size: small;
+    padding-top: 12px;
+}
+.z:hover{
+    background-color:rgb(5, 5, 34);
+    text-decoration: none;
+
+}
+.z a{
+    color:rgb(46, 189, 255);
+
+}

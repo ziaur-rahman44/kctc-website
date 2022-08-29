@@ -1,0 +1,128 @@
+
+.hi{
+    margin-right: -12px;
+    margin-left: -12px;
+    background-image: linear-gradient(to bottom left, rgb(11, 63, 112),rgb(2, 22, 2));
+    
+    
+    
+ 
+}
+.hi h4{
+    text-align: center;
+    color: white;
+    padding: 10px 0px 0px 0px;
+    font-weight: 100;
+   
+    
+}
+.hi img{
+    width: 50px;
+    height: auto;
+    overflow: hidden;
+    padding: 10px 0px 10px 0px;
+    
+}
+
+ /* header menuber*/
+ .nm{
+    background-color:rgb(11, 34, 100) ;
+}
+.nm ul li a:hover{
+    color:#fff;
+}
+.ii img{
+  
+   width:120px;
+   height: auto;
+}
+   
+.nm ul li a {
+    margin-right: 30px;
+    padding: 10px;
+    margin-left: 10px;
+  
+    color:greenyellow;
+
+    padding-bottom: 10px;
+}
+/*content heading*/
+.content-heading-1 h4{
+    padding-left: 20px;
+}
+
+/*content-area*/
+.main-content{
+    background-image: linear-gradient(to bottom left, rgb(11, 63, 112),rgb(2, 22, 2));
+    margin-right: -12px;
+    margin-left: -12px;
+}
+.content-heading-1 h4{
+    font-size: small;
+    padding: 15px;
+    color:white;
+    display: block;
+
+}  
+.content-heading-2 {
+    text-align: center;
+    color: white;
+}
+.content-heading-2 p{
+    font-size: 15px;
+}
+.content-heading-2 h3{
+    font-size: 22px;
+    
+}
+
+/*middle-content area*/
+
+.middle-content h3{
+    text-align: center;
+    font-weight: 700;
+    
+}
+.middle-content ul {
+    font-size: small;
+}
+.middle-content{
+    padding:20px 20px 20px 20px;
+    
+}
+
+
+
+.middle-content .card{
+    background-image:linear-gradient(to bottom left,rgb(57, 52, 105),rgb(27, 31, 73));
+    color:rgb(206, 206, 224);
+    box-shadow:1px 5px 8px 2px rgb(227, 227, 232);
+    
+  
+    
+    
+}
+
+
+/*foter css*/
+.foter-item i{
+    color:white;
+}
+.foter-item{
+    background-color: rgb(2, 2, 19);
+    margin-left: -12px;
+    margin-right: -12px;
+    color:white;
+    text-align: center;
+    font-size: small;
+    padding-top: 12px;
+}
+.z:hover{
+    background-color:rgb(5, 5, 34);
+    text-decoration: none;
+
+}
+.z a{
+    color:rgb(46, 189, 255);
+
+}

@@ -1,0 +1,101 @@
+
+.hi{
+    margin-right: -12px;
+    margin-left: -12px;
+    background-image: linear-gradient(to bottom left, rgb(11, 63, 112),rgb(2, 22, 2));
+    
+    
+    
+ 
+}
+.hi h4{
+    text-align: center;
+    color: white;
+    padding: 10px 0px 0px 0px;
+    font-weight: 100;
+   
+    
+}
+.hi img{
+    width: 50px;
+    height: auto;
+    overflow: hidden;
+    padding: 10px 0px 10px 0px;
+    
+} 
+ 
+/* header menuber*/
+ .nm{
+    background-color:rgb(11, 34, 100) ;
+}
+.nm ul li a:hover{
+    color:#fff;
+}
+.ii img{
+  
+   width:120px;
+   height: auto;
+}
+   
+.nm ul li a {
+    margin-right: 30px;
+    padding: 10px;
+    margin-left: 10px;
+  
+    color:greenyellow;
+
+    padding-bottom: 10px;
+}
+
+/*gallery item heading*/
+.gallery-item h3{
+    background-image: linear-gradient(rgb(8, 8, 51),rgb(17, 48, 17));
+    margin-left: -12px;
+    margin-right: -12px;
+    margin-bottom: 0px;
+    color: rgb(238, 234, 30);
+    font-size: 22px;
+}
+/*/gallery item css*/
+
+
+.gallery-img{
+    padding: 20px;
+  
+    margin-left: -12px;
+    margin-right: -12px;
+    background-image: linear-gradient(to bottom left, rgb(11, 63, 112),rgb(2, 22, 2));
+    
+}
+.gc{
+    margin-top: 10px;
+    border:3px solid rgb(246, 242, 242);
+    
+ 
+   
+  
+    
+}
+
+/*foter css*/
+.foter-item i{
+    color:white;
+}
+.foter-item{
+    background-color: rgb(2, 2, 19);
+    margin-left: -12px;
+    margin-right: -12px;
+    color:white;
+    text-align: center;
+    font-size: small;
+    padding-top: 12px;
+}
+.z:hover{
+    background-color:rgb(5, 5, 34);
+    text-decoration: none;
+
+}
+.z a{
+    color:rgb(46, 189, 255);
+
+}
